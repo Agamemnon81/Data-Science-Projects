@@ -1,0 +1,1 @@
+This is a collection of Jupyter and Jupyterlite projects that I have done while completing the IBM Data Science Professional Certificate. I find these to be very useful as reference materials, and the name of the file will typically contain the type of project and practices used in each project.
